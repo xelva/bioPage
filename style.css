@@ -1,0 +1,29 @@
+body {
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 45%, rgba(252,176,69,1) 100%);
+}
+
+#headerContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.headerName {
+    color: rgb(248, 194, 45);
+}
+
+#textContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.bio {
+    margin: 10px;
+}
+
+#socialLinks {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
